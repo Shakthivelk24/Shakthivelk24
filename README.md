@@ -92,9 +92,9 @@
           </div>
           <br>
           <p>
-            <strong>Tech Stack:</strong> HTML,CSS,JavaScript
+            <strong>Tech Stack:</strong> REACT using 3js,Tailwind CSS
             <br>
-            Currently working on Gaming website project. Stay tuned for updates!
+            Currently working on 3D developer Portfolio website project. Stay tuned for updates!
           </p>
         </div>
       </td>
