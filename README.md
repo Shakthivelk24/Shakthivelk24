@@ -72,6 +72,10 @@
 <div align="center">
 <br/>
  <img src="https://streak-stats.demolab.com?user=Shakthivelk24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://github.com/Shakthivelk24">
+    <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakthivelk24&theme=dracula" alt="Shakthivelk24 GitHub Contribution"/>
+  </a>
+</div>
   <img src="https://github-profile-trophy.vercel.app?username=Shakthivelk24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 <div align="center">
@@ -126,6 +130,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
+
+<div align="center">
+  <h2>🏆 GitHub Activity Graph</h2>
+  <a href="https://github.com/Shakthivelk24">
+    <img alt="Shakthi vel k's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakthivelk24&theme=tokyo-night&hide_border=true" />
+  </a>
+</div>
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <p><i>"Still learning. Still growing. Still coding."</i></p>
