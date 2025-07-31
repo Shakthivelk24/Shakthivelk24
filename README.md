@@ -18,19 +18,18 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shakthivelk24.Shakthivelk24&"  />
 </div>
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <h2 align="center">👋 About Me</h4>
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 Hello! I'm Shakthivel K, a passionate and curious Computer Science student with a strong interest in full-stack development, open-source contributions, and real-world tech solutions. I enjoy turning complex problems into simple, user-friendly interfaces and backends.<br><br>🔧 Tech Stack<br>Languages: JavaScript, Python, C, C++<br><br>Frontend: HTML, CSS, JavaScript React.js, Tailwind CSS<br><br>Tools: Git, GitHub, VS Code, Postman<br><br>🌱 Currently Learning<br>Backend: Node.js, Express.js<br><br>Database: MongoDB, MySQL<br><br>MERN Stack<br><br>DSA for coding interviews<br><br><br><br>
 
-<h1 alingn="left">Pacman is Eating My Contribution</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
