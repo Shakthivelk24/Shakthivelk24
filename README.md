@@ -95,7 +95,7 @@ Hello! I'm Shakthivel K, a passionate and curious Computer Science student with 
           </div>
           <br>
           <p>
-            <strong>Tech Stack:</strong> REACT using 3js,Tailwind CSS
+            <strong>Tech Stack:</strong> React, Tailwind CSS, Framer Motion & GSAP
             <br>
             Currently working on 3D developer Portfolio website project. Stay tuned for updates!
           </p>
