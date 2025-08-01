@@ -25,9 +25,44 @@
 </picture>
 </div>
 
-<h2 align="center">👋 About Me</h4>
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-Hello! I'm Shakthivel K, a passionate and curious Computer Science student with a strong interest in full-stack development, open-source contributions, and real-world tech solutions. I enjoy turning complex problems into simple, user-friendly interfaces and backends.<br><br>🔧 Tech Stack<br>Languages: JavaScript, Python, C, C++<br><br>Frontend: HTML, CSS, JavaScript React.js, Tailwind CSS<br><br>Tools: Git, GitHub, VS Code, Postman<br><br>🌱 Currently Learning<br>Backend: Node.js, Express.js<br><br>Database: MongoDB, MySQL<br><br>MERN Stack<br><br>DSA for coding interviews<br><br><br><br>
+<h2 align="center">👋 About Me</h2>
+
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+<p>
+  Hello! I'm <strong>Shakthivel K</strong>, a passionate and curious Computer Science student with a deep interest in <strong>full-stack development</strong>, <strong>open-source contributions</strong>, and building <strong>real-world tech solutions</strong>.
+</p>
+<p>
+  I love solving complex problems by crafting clean, user-friendly interfaces and robust backend systems. Always eager to learn, experiment, and grow in the ever-evolving tech landscape.
+</p>
+
+<hr />
+
+<h3>🔧 Tech Stack</h3>
+<p><strong>Languages</strong><br />
+JavaScript · Python · C · C++</p>
+
+<p><strong>Frontend</strong><br />
+HTML · CSS · JavaScript · React.js · Tailwind CSS</p>
+
+<p><strong>Backend (Currently Learning)</strong><br />
+Node.js · Express.js</p>
+
+<p><strong>Databases</strong><br />
+MongoDB · MySQL</p>
+
+<p><strong>Tools</strong><br />
+Git · GitHub · VS Code · Postman</p>
+
+<hr />
+
+<h3>🌱 Currently Exploring</h3>
+<ul>
+  <li>The <strong>MERN Stack</strong> (MongoDB, Express, React, Node)</li>
+  <li><strong>DSA</strong> for coding interviews</li>
+  <li>Contributing to <strong>open-source projects</strong></li>
+  <li>Building side-projects that solve real problems</li>
+</ul>
 
 
 
