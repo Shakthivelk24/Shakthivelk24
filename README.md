@@ -63,10 +63,6 @@ Hello! I'm Shakthivel K, a passionate and curious Computer Science student with 
 
 
 
-
- 
-
-
 # 📊 GitHub Stats:
 <div align="center">
 <br/>
