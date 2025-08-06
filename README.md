@@ -40,7 +40,7 @@
 
 <h3>🔧 Tech Stack</h3>
 <p><strong>Languages</strong><br />
-JavaScript · Python · C · C++</p>
+JavaScript · Python · C · C++ · Java </p>
 
 <p><strong>Frontend</strong><br />
 HTML · CSS · JavaScript · React.js · Tailwind CSS</p>
@@ -52,7 +52,7 @@ Node.js · Express.js</p>
 MongoDB · MySQL</p>
 
 <p><strong>Tools</strong><br />
-Git · GitHub · VS Code · Postman</p>
+Git · GitHub · VS Code · </p>
 
 <hr />
 
