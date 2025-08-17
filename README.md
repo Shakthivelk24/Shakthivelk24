@@ -126,14 +126,7 @@ Git · GitHub · VS Code · </p>
           </div>
           <br>
           <p>
-            <strong>Tech Stack:</strong>
-            🛠️ React.js
-            🛠️ Tailwind CSS
-            🛠️ Spline 3D
-            🛠️ Sketchfab (3D model source)
-            🛠️ Vite (optional for faster setup)
-            <br>
-            Currently working on 3D Gaming  website project. Stay tuned for updates!
+            --
           </p>
         </div>
       </td>
