@@ -106,7 +106,7 @@ Git · GitHub · VS Code · </p>
     <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakthivelk24&theme=dracula" alt="Shakthivelk24 GitHub Contribution"/>
   </a>
 </div>
-  <img src="https://github-profile-trophy.vercel.app?username=Shakthivelk24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 <div align="center">
   <h2>🔭 Projects Showcase</h2>
