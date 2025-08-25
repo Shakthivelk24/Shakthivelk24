@@ -101,10 +101,16 @@ Git · GitHub · VS Code · </p>
 # 📊 GitHub Stats:
 <div align="center">
 <br/>
- <img src="https://streak-stats.demolab.com?user=Shakthivelk24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <div align="center">
+  <a href="https://github.com/Shakthivelk24">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakthivelk24&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Shakthivelk24's GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthivelk24&theme=dracula&hide_border=true" alt="Shakthivelk24's GitHub Streak" />
+  </a>
   <a href="https://github.com/Shakthivelk24">
     <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakthivelk24&theme=dracula" alt="Shakthivelk24 GitHub Contribution"/>
   </a>
+  
+</div>
 </div>
   
 </div>
