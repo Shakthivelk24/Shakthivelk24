@@ -132,7 +132,12 @@ Git · GitHub · VS Code · </p>
           </div>
           <br>
           <p>
-            --
+            Tech Stack: <br>
+1. Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack<br>
+2. Tailwind<br>
+3. OpenAI's DALL-E model<br>
+4. Cloudinary<br>
+Currently working on Full Stack MERN AI Image Generation Website project. Stay tuned for updates!
           </p>
         </div>
       </td>
