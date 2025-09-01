@@ -53,6 +53,8 @@
 </div>
 </div>
 
+<hr />
+
 
 <div align="center">
   <h2>💫 About Me</h2>
@@ -86,64 +88,66 @@ const shakthivelK = {
 
 <hr />
 
-<h3>🔧 Tech Stack</h3>
-<p><strong>Languages</strong><br />
-JavaScript · Python · C · C++ · Java </p>
-
-<p><strong>Frontend</strong><br />
-HTML · CSS · JavaScript · React.js · Tailwind CSS</p>
-
-<p><strong>Backend (Currently Learning)</strong><br />
-Node.js · Express.js</p>
-
-<p><strong>Databases</strong><br />
-MongoDB · MySQL</p>
-
-<p><strong>Tools</strong><br />
-Git · GitHub · VS Code · </p>
-
-<hr />
-
-<h3>🌱 Currently Exploring</h3>
-<ul>
-  <li>The <strong>MERN Stack</strong> (MongoDB, Express, React, Node)</li>
-  <li><strong>DSA</strong> for coding interviews</li>
-  <li>Contributing to <strong>open-source projects</strong></li>
-  <li>Building side-projects that solve real problems</li>
-</ul>
-
-
-
 ###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <h2>🛠️ Tech Stack & Tools</h2>
 </div>
 
+<details open>
+  <summary><b>Programming Languages</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396" alt="Java" />
+
+    
+  </p>
+</details>
+
+<details open>
+  <summary><b>Frontend Development</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Backend Development (Currently Learning)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Databases (Currently Learning)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Tools</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+</details>
+
+
+
+###
+
+<hr />
 
 
 # 📊 GitHub Stats:
@@ -162,6 +166,9 @@ Git · GitHub · VS Code · </p>
 </div>
   
 </div>
+
+<hr />
+
 <div align="center">
   <h2>🔭 Projects Showcase</h2>
 </div>
@@ -180,12 +187,7 @@ Git · GitHub · VS Code · </p>
           </div>
           <br>
           <p>
-            Tech Stack: <br>
-1. Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack<br>
-2. Tailwind<br>
-3. OpenAI's DALL-E model<br>
-4. Cloudinary<br>
-Currently working on Full Stack MERN AI Image Generation Website project. Stay tuned for updates!
+            --
           </p>
         </div>
       </td>
@@ -211,6 +213,9 @@ Currently working on Full Stack MERN AI Image Generation Website project. Stay t
   </table>
 </div>
 
+<hr />
+
+
 ###
 
 ### ✍️ Random Dev Quote
@@ -218,12 +223,17 @@ Currently working on Full Stack MERN AI Image Generation Website project. Stay t
 
 ###
 
+<hr />
+
+
 <div align="center">
   <h2>🏆 GitHub Activity Graph</h2>
   <a href="https://github.com/Shakthivelk24">
     <img alt="Shakthi vel k's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakthivelk24&theme=tokyo-night&hide_border=true" />
   </a>
 </div>
+
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <p><i>"Still learning. Still growing. Still coding."</i></p>
