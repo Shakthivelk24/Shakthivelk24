@@ -44,9 +44,6 @@
   <a href="https://www.instagram.com/shakthi024/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="shakthivelk1124@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 <div> 
   <div align="center">
    <img src="https://visitor-badge.laobi.icu/badge?page_id=Shakthivelk24.Shakthivelk24&"  />
@@ -158,6 +155,7 @@ const shakthivelK = {
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakthivelk24&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Shakthivelk24's GitHub Stats" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthivelk24&theme=dracula&hide_border=true" alt="Shakthivelk24's GitHub Streak" />
   </a>
+ </div>
   <a href="https://github.com/Shakthivelk24">
     <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakthivelk24&theme=dracula" alt="Shakthivelk24 GitHub Contribution"/>
   </a>
