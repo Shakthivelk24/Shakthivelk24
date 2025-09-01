@@ -1,4 +1,7 @@
-<h1 align="center">Shakthi Vel K</h1>
+# <div align="center">🌠 Where Creativity Meets Code</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,1:1976D2,2:42A5F5&height=200&section=header&text=SHAKTHI%20VEL%20K&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
   <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shakthi+Vel+K;Computer+Science+Engineering+Student;Full-Stack+Developer;" alt="Typing SVG" /></a>
