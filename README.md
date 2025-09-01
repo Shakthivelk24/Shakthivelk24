@@ -2,10 +2,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,1:1976D2,2:42A5F5&height=200&section=header&text=SHAKTHI%20VEL%20K&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
-
-  <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shakthi+Vel+K;Computer+Science+Engineering+Student;Full-Stack+Developer;" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🛸+Designing+the+Future,+Powered+by+Logic;⚡+Fueling+the+Future+With+Every+Algorithm;🌟+Where+Ideas+Transform+Into+Reality;✨+Turning+Imagination+Into+Execution" alt="Dynamic Title" />
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/shakthi-vel-k-b35484343/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
