@@ -213,17 +213,6 @@ const shakthivelK = {
 
 <hr />
 
-
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
-
-<hr />
-
-
 <div align="center">
   <h2>🏆 GitHub Activity Graph</h2>
   <a href="https://github.com/Shakthivelk24">
@@ -231,6 +220,24 @@ const shakthivelK = {
   </a>
 </div>
 
+<hr />
+
+<div align="center">
+  <h2>💻 Coding Time Stats</h2>
+  <img src="https://img.shields.io/badge/Weekly_Coding_Time-10_Hours-blue?style=for-the-badge" alt="Weekly Coding Time"/>
+  <img src="https://img.shields.io/badge/Most_Used_Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Most Used Language"/>
+  <br>
+  <img src="https://img.shields.io/badge/Focus_Time-2_Hours_Daily-green?style=for-the-badge" alt="Focus Time"/>
+</div>
+
+<hr />
+
+###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
+<hr />
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
