@@ -31,6 +31,11 @@
   </table>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shakthi-vel-k-b35484343/" target="_blank">
@@ -44,21 +49,15 @@
   </a>
 <div> 
   <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shakthivelk24.Shakthivelk24&"  />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shakthivelk24.Shakthivelk24&"  />
 </div>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shakthivelk24/Shakthivelk24/output/pacman-contribution-graph.svg">
-</picture>
+
+
+<div align="center">
+  <h2>💫 About Me</h2>
 </div>
 
-
-
-<h2 align="center">👋 About Me</h2>
-
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 <p>
   Hello! I'm <strong>Shakthivel K</strong>, a passionate and curious Computer Science student with a deep interest in <strong>full-stack development</strong>, <strong>open-source contributions</strong>, and building <strong>real-world tech solutions</strong>.
