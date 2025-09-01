@@ -58,13 +58,31 @@
   <h2>💫 About Me</h2>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=tokyonight&hide_border=true&layout=compact" width="300px" style="max-width: 100%; height: auto;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=tokyonight&hide_border=true&layout=compact" />
+
+
+```javascript
+const shakthivelK = {
+  education: "Computer Science Engineering Student",
+  focus: ["Full Stack Development", "AI Integration"],
+  currentLearning: "MERN Stack & System Design",
+  lookingToCollaborate: ["Full Stack Applications", "AI-powered Projects"],
+  seekingHelp: "Building high-performance, AI-driven, and optimized systems",
+  funFact: "Debugging feels like solving a mystery novel"
+};
+```
 
 <p>
-  Hello! I'm <strong>Shakthivel K</strong>, a passionate and curious Computer Science student with a deep interest in <strong>full-stack development</strong>, <strong>open-source contributions</strong>, and building <strong>real-world tech solutions</strong>.
+ Passionate about full-stack development and AI-driven solutions. Currently deepening my frontend expertise while seeking opportunities to collaborate on innovative projects. Strongly interested in cloud technologies, scalable system design, and modern development practices. Enthusiastic about continuous learning, open-source contributions, and building impactful digital solutions that bridge creativity with technology.
 </p>
-<p>
-  I love solving complex problems by crafting clean, user-friendly interfaces and robust backend systems. Always eager to learn, experiment, and grow in the ever-evolving tech landscape.
-</p>
+</td>
+    </tr>
+  </table>
+</div>
 
 <hr />
 
