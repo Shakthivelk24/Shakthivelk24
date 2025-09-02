@@ -1,7 +1,7 @@
 # <div align="center">🌠 Where Creativity Meets Code</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,1:1976D2,2:42A5F5&height=200&section=header&text=SHAKTHI%20VEL%20K&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30,26&height=200&section=header&text=SHAKTHI%20VEL%20K&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 
