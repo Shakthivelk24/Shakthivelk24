@@ -159,7 +159,13 @@ const shakthivelK = {
   <a href="https://github.com/Shakthivelk24">
     <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakthivelk24&theme=dracula" alt="Shakthivelk24 GitHub Contribution"/>
   </a>
-  
+
+  <div align="center">
+  <a href="https://github.com/Shakthivelk24">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shakthivelk24&theme=darkhub&no-frame=true&row=1&column=7" alt="Shakthivelk24" style="max-width: 100%; height: auto;" />
+  </a>
+</div>
+
 </div>
 </div>
   
