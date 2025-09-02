@@ -215,7 +215,13 @@ const shakthivelK = {
       </td>
     </tr>
   </table>
+  
+  <a href="https://github.com/Shakthivelk24?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+
 </div>
+
 
 <hr />
 
