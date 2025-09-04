@@ -133,9 +133,10 @@ const shakthivelK = {
 </details>
 
 <details open>
-  <summary><b>Tools</b></summary>
+  <summary><b>Tools & Technologies</b></summary>
   <br>
   <p align="center">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 </details>
