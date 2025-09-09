@@ -192,12 +192,7 @@ const shakthivelK = {
           </div>
           <br>
           <p>
-            Tech Stack: 
-1. Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack
-2. Tailwind
-            
-          
-Currently working on  MealMatch Website project. Stay tuned for updates!
+            --
           </p>
         </div>
       </td>
