@@ -192,7 +192,9 @@ const shakthivelK = {
           </div>
           <br>
           <p>
-            --
+            Tech Stack :
+            1.Frontend: React.js + Tailwind CSS  <br/>2.Backend: Node.js + Express.js<br/>3.Database: MongoDB <br/> 4.3D Tools: Spline 3D, Sketchfab <br/>
+            In development stay trun on for the update
           </p>
         </div>
       </td>
