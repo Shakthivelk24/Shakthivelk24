@@ -63,15 +63,15 @@
       <td align="center">
 
 ```javascript
-const shakthivelK = {
+ const shakthivelK = {
   education: "Computer Science Engineering Student",
   focus: ["Full Stack Development", "AI Integration"],
   currentLearning: "MERN Stack & System Design",
   lookingToCollaborate: ["Full Stack Applications", "AI-powered Projects"],
   seekingHelp: "Building high-performance, AI-driven, and optimized systems",
   funFact: "Debugging feels like solving a mystery novel"
-};
-```
+ };
+ ```
 
 <p>
  Passionate about full-stack development and AI-driven solutions. Currently deepening my frontend expertise while seeking opportunities to collaborate on innovative projects. Strongly interested in cloud technologies, scalable system design, and modern development practices. Enthusiastic about continuous learning, open-source contributions, and building impactful digital solutions that bridge creativity with technology.
