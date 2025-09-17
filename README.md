@@ -153,7 +153,6 @@ const shakthivelK = {
 <br/>
  <div align="center">
   <a href="https://github.com/Shakthivelk24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakthivelk24&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Shakthivelk24's GitHub Stats" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthivelk24&theme=dracula&hide_border=true" alt="Shakthivelk24's GitHub Streak" />
   </a>
  </div>
