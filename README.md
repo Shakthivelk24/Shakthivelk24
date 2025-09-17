@@ -61,8 +61,6 @@
   <table>
     <tr>
       <td align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=tokyonight&hide_border=true&layout=compact" width="300px" style="max-width: 100%; height: auto;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=tokyonight&hide_border=true&layout=compact" />
-
 
 ```javascript
 const shakthivelK = {
