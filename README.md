@@ -61,6 +61,7 @@
   <table>
     <tr>
       <td align="center">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=dracula&hide_border=true&layout=compact" width="300px" style="max-width: 100%; height: auto;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=tokyonight&hide_border=true&layout=compact" />
 
 ```javascript
  const shakthivelK = {
@@ -151,6 +152,7 @@
 <br/>
  <div align="center">
   <a href="https://github.com/Shakthivelk24">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakthivelk24&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Shakthivelk24's GitHub Stats" style="max-width: 48%; height: auto;" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthivelk24&theme=dracula&hide_border=true" alt="Shakthivelk24's GitHub Streak" />
   </a>
  </div>
