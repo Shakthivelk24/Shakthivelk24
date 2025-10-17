@@ -192,7 +192,7 @@
           <br>
           <p>
             Tech Stack : <br/>
-            1.Frontend: React.js + Tailwind CSS  <br/>2.Backend: Node.js + Express.js<br/>3.Database: MongoDB <br/> 4.3D Tools: Spline 3D, Sketchfab <br/>
+            1.Frontend: React.js + Tailwind CSS  <br/>2.Backend: Node.js + Express.js<br/>3.Database: MongoDB <br/> 
             In development stay trun on for the update
           </p>
         </div>
