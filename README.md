@@ -192,8 +192,8 @@
           </div>
           <br>
           <p>
-            Tech Stack : <br/>
-            1.Frontend: React.js + Tailwind CSS  <br/>2.Backend: Node.js + Express.js<br/>3.Database: MongoDB <br/> 
+            Name : Virtual Assistant <br />
+            TECH STACK: React | Node.js | Express | MongoDB | Gemini AI | Web Speech API | JWT | bcryptjs | Multer | Cloudinary | Render
             In development stay trun on for the update
           </p>
         </div>
