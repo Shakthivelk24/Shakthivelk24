@@ -192,8 +192,8 @@
           </div>
           <br>
           <p>
-            Name : Virtual Assistant <br />
-            TECH STACK: React | Node.js | Express | MongoDB | Gemini AI | Web Speech API | JWT | bcryptjs | Multer | Cloudinary | Render
+            Name : Movie Ticket Booking Website  <br />
+            TECH STACK: React | Node.js | Express | MongoDB | JWT | bcryptjs <br />
             In development stay trun on for the update
           </p>
         </div>
