@@ -97,8 +97,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396" alt="Java" />
-
-    
   </p>
 </details>
 
@@ -114,7 +112,7 @@
 </details>
 
 <details open>
-  <summary><b>Backend Development (Currently Learning)</b></summary>
+  <summary><b>Backend Development</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -123,7 +121,7 @@
 </details>
 
 <details open>
-  <summary><b>Databases (Currently Learning)</b></summary>
+  <summary><b>Databases</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -138,6 +136,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   </p>
 </details>
 
