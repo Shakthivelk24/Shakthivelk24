@@ -199,6 +199,7 @@
           </div>
           <br>
           <p>
+            WebSite Name : MovieGo <br />
             Name : Movie Ticket Booking Website  <br />
             TECH STACK: React | Node.js | Express | MongoDB | JWT | bcryptjs <br />
             In development stay trun on for the update
