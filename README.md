@@ -199,9 +199,9 @@
           </div>
           <br>
           <p>
-            WebSite Name : MovieGo <br />
-            Name : Movie Ticket Booking Website  <br />
-            TECH STACK: React | Node.js | Express | MongoDB | JWT | bcryptjs <br />
+            WebSite Name :  SmartAttend<br />
+            Name : Automated Attendance System for Rural Schools <br />
+            TECH STACK: React | Node.js | Express | MongoDB | JWT | bcryptjs | Numpy | OpenCV <br />
             In development stay trun on for the update
           </p>
         </div>
