@@ -194,11 +194,17 @@
             <img height="120" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Project 1 GIF"/>
           </div>
           <br>
-          <p>
-            <p><strong>Name:</strong> DevOps</p> 
-<p><strong>Tech Stack:</strong> Git, GitHub, Jenkins, Docker, Kubernetes, AWS, SonarQube, Trivy</p>
-            In development stay trun on for the update
-          </p>
+         <p><strong>Name:</strong> DropZone</p>
+<p><strong>Tech Stack:</strong> 
+Frontend: React.js, HTML, CSS, JavaScript <br>
+Backend: Node.js, Express.js <br>
+Database: MongoDB <br>
+Cloud Storage: Cloudinary <br>
+Authentication: JWT (JSON Web Token) <br>
+Version Control: Git & GitHub <br>
+Development Tools: VS Code <br>
+Deployment: Vercel
+</p>
         </div>
       </td>
       <td width="50%">
