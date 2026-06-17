@@ -188,17 +188,16 @@
       <td width="50%">
         <h3 align="center">Project 1: Coming Soon</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/STATUS-In_Development-blue?style=for-the-badge" alt="Status" />
-          </a>
-          <br><br>
           <div>
-            <img height="120" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Project 1 GIF"/>
+            <img height="120" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Secure DevOps GIF"/>
           </div>
           <br>
-         <p><strong>Name:</strong> -- </p>
-
-</p>
+         <p><strong>Name:</strong> Secure DevOps </p>
+         <p><strong>Tech Stack:</strong></p>
+          <p>
+            Git • GitHub • Jenkins • Maven • SonarQube • Trivy • OWASP ZAP • Docker • Kubernetes • Azure • Terraform • Prometheus • Grafana
+          </p>
+      </p>
         </div>
       </td>
       <td width="50%">
