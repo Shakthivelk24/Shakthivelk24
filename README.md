@@ -195,7 +195,7 @@
          <p><strong>Name:</strong> Secure DevOps </p>
          <p><strong>Tech Stack:</strong></p>
           <p>
-            Git • GitHub • Jenkins • Maven • SonarQube • Trivy • OWASP ZAP • Docker • Kubernetes • Azure • Terraform • Prometheus • Grafana
+            Git • GitHub • Jenkins • NPM • SonarQube • Trivy • OWASP ZAP • Docker • Kubernetes • Azure • Terraform • Prometheus • Grafana
           </p>
       </p>
         </div>
