@@ -241,17 +241,16 @@
       <td width="50%">
         <h3 align="center">Project 1: Coming Soon</h3>
         <div align="center">
-          <div>
-            <img height="120" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Secure DevOps GIF"/>
-          </div>
-          <br>
-         <p><strong>Name:</strong> Secure DevOps </p>
-         <p><strong>Tech Stack:</strong></p>
-          <p>
-            Git • GitHub • Jenkins • NPM • SonarQube • Trivy • OWASP ZAP • Docker • Kubernetes • Azure • Terraform • Prometheus • Grafana
-          </p>
-      </p>
-        </div>
+  <div>
+    <img height="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Blogging Website GIF"/>
+  </div>
+  <br>
+  <p><strong>Name:</strong> Blogging Website</p>
+  <p><strong>Tech Stack:</strong></p>
+  <p>
+    React • Tailwind CSS • Spring Boot • MySQL
+  </p>
+</div>
       </td>
       <td width="50%">
         <h3 align="center">Project 2: In Planning</h3>
