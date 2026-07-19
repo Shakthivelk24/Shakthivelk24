@@ -171,7 +171,7 @@
   <summary><b>Cloud Platforms</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </p>
 </details>
@@ -260,7 +260,7 @@
           </a>
           <br><br>
           <div>
-            <img height="120" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Project 2 GIF"/>
+            <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXppd3h4c3JuY2p4ZGE4MGJtcnY4ZnNuYm54Njd3azBtZXBrZm0yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="Project 2 GIF"/>
           </div>
           <br>
           <p>
