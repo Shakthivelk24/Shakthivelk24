@@ -68,16 +68,16 @@
 ```javascript
  const shakthivelK = {
   education: "Computer Science Engineering Student",
-  focus: ["Full Stack Development", "AI Integration"],
-  currentLearning: "MERN Stack & System Design",
-  lookingToCollaborate: ["Full Stack Applications", "AI-powered Projects"],
-  seekingHelp: "Building high-performance, AI-driven, and optimized systems",
-  funFact: "Debugging feels like solving a mystery novel"
- };
+  focus: ["Full Stack Development","DevOps & Cloud","AI Integration"],
+  currentLearning: ["System Design","Deep Learning (DL)"],,
+  lookingToCollaborate: ["Full Stack Applications","DevOps Projects","Cloud-Native Applications","AI-powered Projects"],
+  seekingHelp:"Building scalable, secure, AI-driven, and cloud-native applications using DevOps best practices",
+  funFact:"Debugging and optimizing CI/CD pipelines feels like solving a mystery novel 🚀"
+};
  ```
 
 <p>
- Passionate about full-stack development and AI-driven solutions. Currently deepening my frontend expertise while seeking opportunities to collaborate on innovative projects. Strongly interested in cloud technologies, scalable system design, and modern development practices. Enthusiastic about continuous learning, open-source contributions, and building impactful digital solutions that bridge creativity with technology.
+Passionate about Full-Stack Development, DevOps, and AI-driven solutions. Currently expanding my expertise in modern web technologies, cloud computing, and scalable system design while exploring best practices in CI/CD, containerization, and cloud-native development. I enjoy collaborating on innovative projects, contributing to open source, and continuously learning emerging technologies. My goal is to build secure, scalable, and impactful digital solutions that combine creativity, performance, and reliability.
 </p>
 </td>
     </tr>
