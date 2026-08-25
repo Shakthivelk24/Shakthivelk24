@@ -242,14 +242,14 @@ Passionate about Full-Stack Development, DevOps, and AI-driven solutions. Curren
         <h3 align="center">Project 1: Coming Soon</h3>
         <div align="center">
   <div>
-    <img height="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Blogging Website GIF"/>
-  </div>
-  <br>
-  <p><strong>Name:</strong> Blogging Website</p>
-  <p><strong>Tech Stack:</strong></p>
-  <p>
-    React • Tailwind CSS • Spring Boot • MySQL
-  </p>
+  <img height="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="DocuVault AI GIF"/>
+</div>
+<br>
+<p><strong>Name:</strong> DocuVault AI</p>
+<p><strong>Tech Stack:</strong></p>
+<p>
+  React • Tailwind CSS • Clerk • AWS S3 • Lambda • DynamoDB • Amazon Bedrock
+</p>
 </div>
       </td>
       <td width="50%">
