@@ -249,11 +249,10 @@ Passionate about Full-Stack Development, DevOps, and AI-driven solutions. Curren
   <img height="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="DocuVault AI GIF"/>
 </div>
 <br>
-<p><strong>Name:</strong> JalaJagruti AI</p>
+<p><strong>Name:</strong> -- </p>
 <p><strong>Tech Stack:</strong></p>
 <p>
-  Python • Deep Learning • CNN • LSTM • TensorFlow •
-            Satellite Data • Sentinel-2 • VIIRS • ERA5-Land
+  --
 </p>
 </div>
       </td>
