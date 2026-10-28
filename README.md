@@ -63,22 +63,13 @@
   <table>
     <tr>
       <td align="center">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=dracula&hide_border=true&layout=compact" width="300px" style="max-width: 100%; height: auto;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivelk24&theme=tokyonight&hide_border=true&layout=compact" />
-
-```javascript
- const shakthivelK = {
-  education: "Computer Science Engineering Student",
-  focus: ["Full Stack Development","DevOps & Cloud","AI Integration"],
-  currentLearning: ["System Design","Deep Learning (DL)"],,
-  lookingToCollaborate: ["Full Stack Applications","DevOps Projects","Cloud-Native Applications","AI-powered Projects"],
-  seekingHelp:"Building scalable, secure, AI-driven, and cloud-native applications using DevOps best practices",
-  funFact:"Debugging and optimizing CI/CD pipelines feels like solving a mystery novel 🚀"
-};
- ```
-
-<p>
-Passionate about Full-Stack Development, DevOps, and AI-driven solutions. Currently expanding my expertise in modern web technologies, cloud computing, and scalable system design while exploring best practices in CI/CD, containerization, and cloud-native development. I enjoy collaborating on innovative projects, contributing to open source, and continuously learning emerging technologies. My goal is to build secure, scalable, and impactful digital solutions that combine creativity, performance, and reliability.
+     
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=shakthivelk24&theme=matrix&style=terminal" width="100%" alt="shakthivelk24 about" />
 </p>
+
+<em> Passionate about Full-Stack Development, DevOps, and AI-driven solutions. Currently expanding my expertise in modern web technologies, cloud computing, and scalable system design while exploring best practices in CI/CD, containerization, and cloud-native development. I enjoy collaborating on innovative projects, contributing to open source, and continuously learning emerging technologies. My goal is to build secure, scalable, and impactful digital solutions that combine creativity, performance, and reliability. </em>
+
 </td>
     </tr>
   </table>
