@@ -249,10 +249,12 @@
   <img height="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="DocuVault AI GIF"/>
 </div>
 <br>
-<p><strong>Name:</strong> -- </p>
+<p><strong>Name:</strong> PayFlow – Intelligent Payment Orchestration System</p>
 <p><strong>Tech Stack:</strong></p>
 <p>
-  --
+  React, Tailwind CSS, Java, Spring Boot, Spring Security,
+  Spring Data JPA, Python, FastAPI, PostgreSQL, Redis,
+  Apache Kafka, Docker, Kubernetes, Jenkins, Prometheus, Grafana
 </p>
 </div>
       </td>
